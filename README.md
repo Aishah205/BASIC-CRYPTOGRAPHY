@@ -57,7 +57,7 @@ crypto-lab/
 
 ## Author
 Aishah Aiyepe Adunni  
-Final Year Student | Cybersecurity Enthusiast  
+Cybersecurity Enthusiast  
 [GitHub](https://github.com/Aishah205) | [LinkedIn](https://linkedin.com/in/aiyepeayishat)
 
 ## License
