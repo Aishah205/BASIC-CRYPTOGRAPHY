@@ -43,10 +43,10 @@ git push origin main
 
 ## Project Structure
 crypto-lab/
-├── secret.txt.gpg          # Encrypted message
-├── decrypted.txt           # Decrypted message (on Ubuntu)
-├── ubuntu_pubkey.asc       # Ubuntu's GPG public key
-├── README.md               # Project documentation
+├── secret.txt.gpg       |   # Encrypted message
+├── decrypted.txt        |  # Decrypted message (on Ubuntu)
+├── ubuntu_pubkey.asc    |   # Ubuntu's GPG public key
+├── README.md            |  # Project documentation
 
 ## Possible Extensions
 
