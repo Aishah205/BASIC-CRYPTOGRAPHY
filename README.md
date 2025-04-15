@@ -56,7 +56,7 @@ crypto-lab/
 - Automate the process with Bash scripts.
 
 ## Author
-Aishah Aiyepe Adunni  
+Aishah Adunni Aiyepe  
 Cybersecurity Enthusiast  
 [GitHub](https://github.com/Aishah205) | [LinkedIn](https://linkedin.com/in/aiyepeayishat)
 
